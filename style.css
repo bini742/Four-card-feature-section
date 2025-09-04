@@ -137,6 +137,7 @@ body{
     }
 
     .description {
+        margin:30px;
         font-size: 14px;
         display: flex;
         justify-content: center;
@@ -147,5 +148,6 @@ body{
     }
 
 }
+
 
 
